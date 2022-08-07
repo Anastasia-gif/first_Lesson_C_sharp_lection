@@ -15,10 +15,6 @@ int g = 30;
 int s = 19;
 int z = 18;
 
-int max1 = Max(a,b,z);
-int max2 = Max(d,f,g);
-int max3 = Max(s,i,c);
-
 int maxFinal = Max(
     Max(a,b,z),
     Max(d,f,g),
