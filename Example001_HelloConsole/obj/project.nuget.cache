@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3oXBpjxP97Y2oEDK59iFnNO9zZX+iC7Z/aZylqbDQGBu50uffOVWcBYM0nIeYpcNtBdEIWMBp+2iclf9yWWtRQ==",
+  "dgSpecHash": "Y8d2B/xs4fpyYjWXe7NwVH4RdUZb6MGWPF1lKpuifnZ6Q7AoH5RkXd18kBAnOn9Nrrd13uELYN3212OXX9m+ag==",
   "success": true,
-  "projectFilePath": "/home/nast/Занятия С#/seconLessonCSharp(lection)/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
+  "projectFilePath": "/home/nast/lessonС#/seconLessonCSharp(lection)/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

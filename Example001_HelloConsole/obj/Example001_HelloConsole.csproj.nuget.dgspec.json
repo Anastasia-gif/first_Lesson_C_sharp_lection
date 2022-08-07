@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/nast/Занятия С#/seconLessonCSharp(lection)/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj": {}
+    "/home/nast/lessonС#/seconLessonCSharp(lection)/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "/home/nast/Занятия С#/seconLessonCSharp(lection)/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj": {
+    "/home/nast/lessonС#/seconLessonCSharp(lection)/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nast/Занятия С#/seconLessonCSharp(lection)/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
+        "projectUniqueName": "/home/nast/lessonС#/seconLessonCSharp(lection)/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "/home/nast/Занятия С#/seconLessonCSharp(lection)/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
+        "projectPath": "/home/nast/lessonС#/seconLessonCSharp(lection)/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
         "packagesPath": "/home/nast/.nuget/packages/",
-        "outputPath": "/home/nast/Занятия С#/seconLessonCSharp(lection)/Examples/Example001_HelloConsole/obj/",
+        "outputPath": "/home/nast/lessonС#/seconLessonCSharp(lection)/Examples/Example001_HelloConsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nast/.nuget/NuGet/NuGet.Config"
